@@ -8,10 +8,7 @@ function createMultiplier (n) {
     return number * n
   }
 }
-//
-// function multiplierValue () {
-//
-//  }
+
 function multiplier () {
 
 }
