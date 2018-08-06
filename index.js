@@ -2,9 +2,9 @@ function countdown(callback) {
   return window.setTimeout(callback, 2000)
 }
 
-function createMultiplier (number) {
+function createMultiplier (n) {
   return function (number) {
-    
+    return number * n
   }
 }
 
