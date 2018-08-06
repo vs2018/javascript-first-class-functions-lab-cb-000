@@ -7,7 +7,7 @@ function createMultiplier (multiplierValue) {
 
     return number * multiplierValue
 
-  }
+  }.bind(null, number)
 }
 var doubler = createMultiplier (2)
 var tripler = createMultiplier (3)
