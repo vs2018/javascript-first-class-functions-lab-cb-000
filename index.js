@@ -9,5 +9,5 @@ function createMultiplier (n) {
 }
 // 
 // function multiplierValue () {
-// 
+//
 //  }
