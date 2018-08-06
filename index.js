@@ -3,11 +3,11 @@ function countdown(callback) {
 }
 
 function createMultiplier (number) {
-  
+  return function () {
+    
+  }
 }
 
 function multiplierValue () {
-  return function () {
-
-  }
+  
  }
