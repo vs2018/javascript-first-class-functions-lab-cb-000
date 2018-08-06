@@ -21,4 +21,3 @@ function createMultiplierBonus () {
 }
 
 var doubler = createMultiplier(n)
-
