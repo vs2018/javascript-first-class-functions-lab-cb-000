@@ -8,6 +8,6 @@ function createMultiplier () {
 
 function multiplierValue () {
   return function () {
-    
+
   }
  }
