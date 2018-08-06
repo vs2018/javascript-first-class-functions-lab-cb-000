@@ -15,10 +15,10 @@ var tripler = createMultiplier (3)
 function multiplier () {
 
 }
-
-function createMultiplierBonus (n) {
-
-  return function doubler (n) {
-    createMultiplier(n)
-  }
-}
+// 
+// function createMultiplierBonus (n) {
+//
+//   return function doubler (n) {
+//     createMultiplier(n)
+//   }
+// }
