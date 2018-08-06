@@ -16,8 +16,8 @@ function multiplier (multiplierValue, value) {
   return multiplierValue * value
 }
 
-var doublerWithBind = multiplier(2, value)
-var triplerWithBind = multiplier(3, value)
+var doublerWithBind.bind(null, value) = multiplier(2, value)
+var triplerWithBind.bind(null, value) = multiplier(3, value)
 
 
 //
