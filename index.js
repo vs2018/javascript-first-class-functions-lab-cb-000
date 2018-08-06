@@ -16,7 +16,7 @@ function multiplier () {
 
 }
 
-function createMultiplierBonus () {
+function createMultiplierBonus (n) {
 
   function doubler (n) {
     createMultiplier(n)
