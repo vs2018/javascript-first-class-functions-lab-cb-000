@@ -17,6 +17,7 @@ function multiplier (multiplierValue, value) {
 }
 
 var doublerWithBind = multiplier(2, value)
+var triplerWithBind = multiplier(3, value)
 
 
 //
