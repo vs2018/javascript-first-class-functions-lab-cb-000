@@ -6,10 +6,12 @@ function createMultiplier (multiplierValue) {
   return function (number) {
 
     return number * multiplierValue
-    
+
   }
 }
-var doubler = createMultiplier (n)
+var doubler = createMultiplier (2)
+var tripler = createMultiplier (3)
+
 function multiplier () {
 
 }
