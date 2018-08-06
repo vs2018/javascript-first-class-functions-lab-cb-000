@@ -4,7 +4,7 @@ function countdown(callback) {
 
 function createMultiplier (n) {
   return function (number) {
-    
+
     return number * n
   }
 }
@@ -18,9 +18,7 @@ function multiplier () {
 
 function createMultiplierBonus () {
 
-  function doubler () {
+  function doubler (n) {
     createMultiplier(n)
-  } 
+  }
 }
-
-
