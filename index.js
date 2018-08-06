@@ -18,3 +18,5 @@ function multiplier () {
 function createMultiplierBonus () {
   
 }
+
+var doubler = createMultiplier()
