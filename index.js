@@ -8,7 +8,7 @@ function createMultiplier (n) {
     return number * n
   }
 }
-
+var doubler = createMultiplier (n)
 function multiplier () {
 
 }
