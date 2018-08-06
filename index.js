@@ -18,7 +18,7 @@ function multiplier () {
 
 function createMultiplierBonus (n) {
 
-  function doubler (n) {
+  return function doubler (n) {
     createMultiplier(n)
   }
 }
