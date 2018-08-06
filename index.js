@@ -12,7 +12,7 @@ function createMultiplier (n) {
 //
 //  }
 function multiplier () {
-  
+
 }
 
 function createMultiplierBonus () {
