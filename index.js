@@ -12,12 +12,12 @@ function createMultiplier (multiplierValue) {
 var doubler = createMultiplier (2)
 var tripler = createMultiplier (3)
 
-function multiplier () {
+function multiplier (multiplierValue, value) {
 
 }
 
 
-// 
+//
 // function createMultiplierBonus (n) {
 //
 //   return function doubler (n) {
